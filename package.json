@@ -1,0 +1,23 @@
+{
+  "name": "@larvit/eslint-config-esm",
+  "version": "0.1.0",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3",
+  "main": "index.js",
+  "dependencies": {
+    "@larvit/eslint-config-esm": "1.0.0",
+    "eslint-plugin-simple-import-sort": "8.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8",
+    "typescript": ">= 4"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larvit/eslint-config-ems.git"
+  }
+}
