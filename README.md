@@ -2,7 +2,7 @@
 
 ## Installation
 
-`npm i -d eslint typescript@larvit/eslint-config-typescript-esm` or `yarn add -D eslint typescript@larvit/eslint-config-typescript-esm`
+`npm i -d eslint typescript @larvit/eslint-config-typescript-esm` or `yarn add -D eslint typescript @larvit/eslint-config-typescript-esm`
 
 ## Usage
 
