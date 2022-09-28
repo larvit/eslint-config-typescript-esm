@@ -1,5 +1,5 @@
 {
-  "name": "@larvit/eslint-config-esm",
+  "name": "@larvit/eslint-config-typescript-esm",
   "version": "0.1.0",
   "license": "MIT",
   "packageManager": "yarn@3.2.3",
