@@ -5,14 +5,14 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@larvit/eslint-config-esm@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@larvit/eslint-config-esm@npm:1.0.0"
+"@larvit/eslint-config-esm@npm:1.0.1":
+  version: 1.0.1
+  resolution: "@larvit/eslint-config-esm@npm:1.0.1"
   dependencies:
     eslint-plugin-simple-import-sort: 8.0.0
   peerDependencies:
     eslint: ">= 8"
-  checksum: 474c5df9446872ed18fecf3cfd66b9cd2784e543120ad573210630c6569977958a25a40e14759c777e7253202757c6684f7337569640981ffcd3b62fb87d917f
+  checksum: f6da205a71635b6c35924769c2504d12fdbaaaab65f71aa189fb56ebdafe5b7a9adb006588c8809bc66eed437c7270499c54ddd898e83f018a8e74589f62f947
   languageName: node
   linkType: hard
 
@@ -20,7 +20,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@larvit/eslint-config-typescript-esm@workspace:."
   dependencies:
-    "@larvit/eslint-config-esm": 1.0.0
+    "@larvit/eslint-config-esm": 1.0.1
     "@typescript-eslint/eslint-plugin": 5.38.1
     "@typescript-eslint/parser": 5.38.1
     eslint-plugin-typescript-sort-keys: 2.1.0
