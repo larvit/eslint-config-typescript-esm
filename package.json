@@ -1,6 +1,6 @@
 {
   "name": "@larvit/eslint-config-typescript-esm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "packageManager": "yarn@3.2.3",
   "main": "index.js",
@@ -20,6 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/larvit/eslint-config-typescript-ems.git"
+    "url": "git+https://github.com/larvit/eslint-config-typescript-esm.git"
   }
 }
