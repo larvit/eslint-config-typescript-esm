@@ -1,11 +1,11 @@
 {
   "name": "@larvit/eslint-config-typescript-esm",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "packageManager": "yarn@3.3.1",
   "main": "index.js",
   "dependencies": {
-    "@larvit/eslint-config-esm": "1.0.1",
+    "@larvit/eslint-config-esm": "1.1.0",
     "@typescript-eslint/eslint-plugin": "5.48.0",
     "@typescript-eslint/parser": "5.48.0",
     "eslint-plugin-typescript-sort-keys": "2.1.0"
