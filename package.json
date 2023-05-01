@@ -2,7 +2,7 @@
   "name": "@larvit/eslint-config-typescript-esm",
   "version": "1.2.0",
   "license": "MIT",
-  "packageManager": "yarn@3.5.0",
+  "packageManager": "yarn@3.5.1",
   "main": "index.js",
   "dependencies": {
     "@larvit/eslint-config-esm": "1.1.0",
