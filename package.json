@@ -1,6 +1,6 @@
 {
   "name": "@larvit/eslint-config-typescript-esm",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "license": "MIT",
   "packageManager": "yarn@3.6.3",
   "main": "index.js",
