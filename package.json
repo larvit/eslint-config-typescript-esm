@@ -8,7 +8,7 @@
     "@larvit/eslint-config-esm": "1.1.0",
     "@typescript-eslint/eslint-plugin": "6.5.0",
     "@typescript-eslint/parser": "6.5.0",
-    "eslint-plugin-typescript-sort-keys": "2.3.0"
+    "eslint-plugin-typescript-sort-keys": "3.0.0"
   },
   "peerDependencies": {
     "eslint": ">= 8",
