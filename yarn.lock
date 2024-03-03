@@ -41,7 +41,7 @@ __metadata:
     "@larvit/eslint-config-esm": "npm:1.1.0"
     "@typescript-eslint/eslint-plugin": "npm:7.1.0"
     "@typescript-eslint/parser": "npm:7.1.0"
-    eslint-plugin-typescript-sort-keys: "npm:3.1.0"
+    eslint-plugin-typescript-sort-keys: "npm:3.2.0"
   peerDependencies:
     eslint: ">= 8"
     typescript: ">= 4"
@@ -348,18 +348,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-typescript-sort-keys@npm:3.1.0":
-  version: 3.1.0
-  resolution: "eslint-plugin-typescript-sort-keys@npm:3.1.0"
+"eslint-plugin-typescript-sort-keys@npm:3.2.0":
+  version: 3.2.0
+  resolution: "eslint-plugin-typescript-sort-keys@npm:3.2.0"
   dependencies:
     "@typescript-eslint/experimental-utils": "npm:^5.0.0"
     json-schema: "npm:^0.4.0"
     natural-compare-lite: "npm:^1.4.0"
   peerDependencies:
-    "@typescript-eslint/parser": ^6
+    "@typescript-eslint/parser": ^6 || ^7
     eslint: ^7 || ^8
     typescript: ^3 || ^4 || ^5
-  checksum: 10c0/746ab5b1ab5f33102a603347b42c28cf51bc05d7d81f606a990e11d8ed39b93066c6c9575bb1031e64ca796ab44e97fec48389bd232fd659944920eee42f5223
+  checksum: 10c0/c832d5a93cac4f955f05b126ad79d1df49f9f11402ab225b1835d42972291a3855e477d28b07696d2a65a511ccdcdf64001eeda216248da82a5187af6d03e70f
   languageName: node
   linkType: hard
 
