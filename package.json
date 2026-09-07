@@ -11,7 +11,7 @@
   "dependencies": {
     "@larvit/eslint-config-esm": "2.0.0",
     "@stylistic/eslint-plugin": "5.10.0",
-    "eslint-plugin-perfectionist": "5.9.1",
+    "eslint-plugin-perfectionist": "5.11.0",
     "typescript-eslint": "8.61.1"
   },
   "devDependencies": {
